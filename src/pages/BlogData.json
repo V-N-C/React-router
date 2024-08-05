@@ -1,0 +1,82 @@
+[
+    {
+      "Fullstatck": [
+        {
+          "id": "1",
+          "topic": "Best Full Stack Development Ideas",
+          "img": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230128123255/12-Best-Full-Stack-Projects-Ideas-in-2023.png",
+          "created": "Isha Sharma",
+          "date": "24 Mar, 2024",
+          "Minread": "4 min Read"
+        },
+        {
+          "id": "2",
+          "topic": "How Long it takes to be Full Stack Developer",
+          "img": "https://www.simplilearn.com/ice9/free_resources_article_thumb/full_stack_banner.jpg",
+          "created": "Meghana",
+          "date": "17 Feb, 2024",
+          "Minread": "3 min Read"
+        },
+        {
+          "id": "3",
+          "topic": "Essential Prequites learning ReactJS",
+          "img": "https://miro.medium.com/v2/resize:fit:680/1*RDN058L5gQ02Xy13OaxjnQ.jpeg",
+          "created": "RamKumar",
+          "date": "4 Mar, 2024",
+          "Minread": "3 min Read"
+        }
+      ],
+      "AIandMl": [
+        {
+          "id": "4",
+          "topic": "The Influenses of Chatbot",
+          "img": "https://www.shutterstock.com/image-photo/hand-touching-digital-chatbot-provide-260nw-1639774756.jpg",
+          "created": "Meghana",
+          "date": "10 Apr, 2024",
+          "Minread": "5 min Read"
+        },
+        {
+          "id": "5",
+          "topic": "Apple Vision Pro: A deep Dive",
+          "img": "https://cdn.mos.cms.futurecdn.net/tEwBLAL7L7nma9ZanDDm4e-1200-80.jpg",
+          "created": "Lukesh S",
+          "date": "2 May, 2024",
+          "Minread": "4 min Read"
+        },
+        {
+          "id": "6",
+          "topic": "Retreivel Augmented Generation: Important things to know",
+          "img": "https://developer-blogs.nvidia.com/wp-content/uploads/2024/03/multi-modal-rag-featured.jpg",
+          "created": "Lukesh",
+          "date": "9 Mar, 2024",
+          "Minread": "6 min Read"
+        }
+      ],
+      "DevOps": [
+        {
+          "id": "7",
+          "topic": "10 Best Idead for DevOps Project",
+          "img": "https://cdni.iconscout.com/illustration/premium/preview/devops-engineer-5734400-4799734.png",
+          "created": "Srinithi shankar",
+          "date": "18 Apr, 2024",
+          "Minread": "4 min Read"
+        },
+        {
+          "id": "8",
+          "topic": "How long it takes to learn DevOps",
+          "img": "https://cdni.iconscout.com/illustration/premium/preview/devops-engineer-5734400-4799734.png",
+          "created": "Lukesh S",
+          "date": "15 Jan, 2024",
+          "Minread": "6 min Read"
+        },
+        {
+          "id": "9",
+          "topic": "Top high paying Non-IT Jobs for DevOps",
+          "img": "https://cdni.iconscout.com/illustration/premium/preview/devops-engineer-5734400-4799734.png",
+          "created": "Bhardwaj",
+          "date": "11 May, 2024",
+          "Minread": "7 min Read"
+        }
+      ]
+    }
+  ]
